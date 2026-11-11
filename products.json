@@ -1,0 +1,1762 @@
+[
+{
+"id": "FS-0001",
+"name": "Modular Sofa",
+"category": "Sofas & Seating",
+"factory": "Shunde Longjiang Works",
+"moq": 1,
+"leadDays": 35,
+"priceINR": 214781,
+"unit": "per piece",
+"variants": {
+"material": [
+"Linen",
+"Boucle",
+"Velvet"
+],
+"size": [
+"Standard",
+"Compact"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0002",
+"name": "Modular Sofa \u2014 Oslo",
+"category": "Sofas & Seating",
+"factory": "Shunde Longjiang Works",
+"moq": 10,
+"leadDays": 25,
+"priceINR": 90061,
+"unit": "per piece",
+"variants": {
+"material": [
+"Boucle",
+"Linen",
+"Velvet"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0003",
+"name": "Chesterfield Sofa",
+"category": "Sofas & Seating",
+"factory": "Shunde Longjiang Works",
+"moq": 2,
+"leadDays": 35,
+"priceINR": 77433,
+"unit": "per piece",
+"variants": {
+"material": [
+"Boucle",
+"Velvet",
+"Top-grain Leather"
+],
+"size": [
+"Custom",
+"Standard"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0004",
+"name": "Chesterfield Sofa \u2014 Kyoto",
+"category": "Sofas & Seating",
+"factory": "Shunde Longjiang Works",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 206733,
+"unit": "per piece",
+"variants": {
+"material": [
+"Linen",
+"Velvet",
+"Top-grain Leather"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0005",
+"name": "Recliner",
+"category": "Sofas & Seating",
+"factory": "Foshan Nanhai Home",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 269181,
+"unit": "per piece",
+"variants": {
+"material": [
+"Top-grain Leather",
+"Linen",
+"Boucle"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0006",
+"name": "Recliner \u2014 Kyoto",
+"category": "Sofas & Seating",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 10,
+"leadDays": 35,
+"priceINR": 87915,
+"unit": "per piece",
+"variants": {
+"material": [
+"Top-grain Leather",
+"Boucle",
+"Linen"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0007",
+"name": "Lounge Chair",
+"category": "Sofas & Seating",
+"factory": "Chancheng Lighting Co.",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 131487,
+"unit": "per piece",
+"variants": {
+"material": [
+"Top-grain Leather",
+"Velvet",
+"Linen"
+],
+"size": [
+"Compact",
+"Large"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0008",
+"name": "Lounge Chair \u2014 Kyoto",
+"category": "Sofas & Seating",
+"factory": "Chancheng Lighting Co.",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 305400,
+"unit": "per piece",
+"variants": {
+"material": [
+"Boucle",
+"Velvet",
+"Top-grain Leather"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0009",
+"name": "Sectional Sofa",
+"category": "Sofas & Seating",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 278644,
+"unit": "per piece",
+"variants": {
+"material": [
+"Top-grain Leather",
+"Boucle",
+"Linen"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.2
+},
+{
+"id": "FS-0010",
+"name": "Sectional Sofa \u2014 Luxe",
+"category": "Sofas & Seating",
+"factory": "Foshan Nanhai Home",
+"moq": 2,
+"leadDays": 30,
+"priceINR": 106391,
+"unit": "per piece",
+"variants": {
+"material": [
+"Boucle",
+"Velvet",
+"Top-grain Leather"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0011",
+"name": "Accent Armchair",
+"category": "Sofas & Seating",
+"factory": "Chancheng Lighting Co.",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 305312,
+"unit": "per piece",
+"variants": {
+"material": [
+"Velvet",
+"Boucle",
+"Linen"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0012",
+"name": "Accent Armchair \u2014 Oslo",
+"category": "Sofas & Seating",
+"factory": "Lecong Craft Furniture",
+"moq": 1,
+"leadDays": 30,
+"priceINR": 262734,
+"unit": "per piece",
+"variants": {
+"material": [
+"Top-grain Leather",
+"Boucle",
+"Linen"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0013",
+"name": "Upholstered King Bed",
+"category": "Beds & Bedroom",
+"factory": "Foshan Nanhai Home",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 21162,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Fabric",
+"Oak veneer"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0014",
+"name": "Upholstered King Bed \u2014 Aurora",
+"category": "Beds & Bedroom",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 177858,
+"unit": "per piece",
+"variants": {
+"material": [
+"Fabric",
+"Oak veneer",
+"Leather"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.2
+},
+{
+"id": "FS-0015",
+"name": "Platform Bed",
+"category": "Beds & Bedroom",
+"factory": "Shunde Longjiang Works",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 184275,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Oak veneer",
+"Fabric"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0016",
+"name": "Platform Bed \u2014 Verona",
+"category": "Beds & Bedroom",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 31782,
+"unit": "per piece",
+"variants": {
+"material": [
+"Oak veneer",
+"Leather",
+"Fabric"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0017",
+"name": "Wardrobe 4-Door",
+"category": "Beds & Bedroom",
+"factory": "Chancheng Lighting Co.",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 56941,
+"unit": "per piece",
+"variants": {
+"material": [
+"Fabric",
+"Walnut",
+"Leather"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0018",
+"name": "Wardrobe 4-Door \u2014 Nordic",
+"category": "Beds & Bedroom",
+"factory": "Foshan Nanhai Home",
+"moq": 5,
+"leadDays": 45,
+"priceINR": 99750,
+"unit": "per piece",
+"variants": {
+"material": [
+"Oak veneer",
+"Leather",
+"Fabric"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.1
+},
+{
+"id": "FS-0019",
+"name": "Bedside Table",
+"category": "Beds & Bedroom",
+"factory": "Foshan Ceramics Group",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 156479,
+"unit": "per piece",
+"variants": {
+"material": [
+"Fabric",
+"Oak veneer",
+"Leather"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0020",
+"name": "Bedside Table \u2014 Nordic",
+"category": "Beds & Bedroom",
+"factory": "Lecong Craft Furniture",
+"moq": 2,
+"leadDays": 30,
+"priceINR": 61789,
+"unit": "per piece",
+"variants": {
+"material": [
+"Fabric",
+"Oak veneer",
+"Walnut"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0021",
+"name": "Dresser with Mirror",
+"category": "Beds & Bedroom",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 45,
+"priceINR": 70407,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Walnut",
+"Oak veneer"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0022",
+"name": "Dresser with Mirror \u2014 Kyoto",
+"category": "Beds & Bedroom",
+"factory": "Shunde Longjiang Works",
+"moq": 2,
+"leadDays": 25,
+"priceINR": 108251,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Fabric",
+"Walnut"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0023",
+"name": "Marble Dining Table",
+"category": "Dining",
+"factory": "Chancheng Lighting Co.",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 65575,
+"unit": "per piece",
+"variants": {
+"material": [
+"Walnut",
+"Solid ash",
+"Marble"
+],
+"size": [
+"Standard",
+"Large"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0024",
+"name": "Marble Dining Table \u2014 Aurora",
+"category": "Dining",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 208644,
+"unit": "per piece",
+"variants": {
+"material": [
+"Sintered stone",
+"Walnut",
+"Marble"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0025",
+"name": "Extendable Dining Table",
+"category": "Dining",
+"factory": "Shunde Longjiang Works",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 34261,
+"unit": "per piece",
+"variants": {
+"material": [
+"Sintered stone",
+"Marble",
+"Solid ash"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0026",
+"name": "Extendable Dining Table \u2014 Milano",
+"category": "Dining",
+"factory": "Shunde Longjiang Works",
+"moq": 1,
+"leadDays": 30,
+"priceINR": 136349,
+"unit": "per piece",
+"variants": {
+"material": [
+"Solid ash",
+"Marble",
+"Walnut"
+],
+"size": [
+"Custom",
+"Standard"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0027",
+"name": "Dining Chair",
+"category": "Dining",
+"factory": "Foshan Nanhai Home",
+"moq": 2,
+"leadDays": 35,
+"priceINR": 67323,
+"unit": "per piece",
+"variants": {
+"material": [
+"Marble",
+"Sintered stone",
+"Walnut"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0028",
+"name": "Dining Chair \u2014 Aurora",
+"category": "Dining",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 10,
+"leadDays": 30,
+"priceINR": 46360,
+"unit": "per piece",
+"variants": {
+"material": [
+"Marble",
+"Solid ash",
+"Sintered stone"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0029",
+"name": "Bar Stool",
+"category": "Dining",
+"factory": "Lecong Craft Furniture",
+"moq": 2,
+"leadDays": 30,
+"priceINR": 240800,
+"unit": "per piece",
+"variants": {
+"material": [
+"Walnut",
+"Marble",
+"Solid ash"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0030",
+"name": "Bar Stool \u2014 Luxe",
+"category": "Dining",
+"factory": "Shunde Longjiang Works",
+"moq": 1,
+"leadDays": 30,
+"priceINR": 157876,
+"unit": "per piece",
+"variants": {
+"material": [
+"Marble",
+"Sintered stone",
+"Solid ash"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.1
+},
+{
+"id": "FS-0031",
+"name": "Sideboard",
+"category": "Dining",
+"factory": "Shunde Longjiang Works",
+"moq": 10,
+"leadDays": 35,
+"priceINR": 37623,
+"unit": "per piece",
+"variants": {
+"material": [
+"Walnut",
+"Solid ash",
+"Marble"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0032",
+"name": "Sideboard \u2014 Nordic",
+"category": "Dining",
+"factory": "Foshan Ceramics Group",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 145210,
+"unit": "per piece",
+"variants": {
+"material": [
+"Walnut",
+"Solid ash",
+"Marble"
+],
+"size": [
+"Custom",
+"Standard"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0033",
+"name": "Executive Desk",
+"category": "Office",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 111855,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Walnut veneer",
+"Melamine"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0034",
+"name": "Executive Desk \u2014 Oslo",
+"category": "Office",
+"factory": "Foshan Nanhai Home",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 41073,
+"unit": "per piece",
+"variants": {
+"material": [
+"Walnut veneer",
+"Mesh",
+"Leather"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.9
+},
+{
+"id": "FS-0035",
+"name": "Ergonomic Office Chair",
+"category": "Office",
+"factory": "Lecong Craft Furniture",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 113400,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Melamine",
+"Mesh"
+],
+"size": [
+"Compact",
+"Large"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0036",
+"name": "Ergonomic Office Chair \u2014 Milano",
+"category": "Office",
+"factory": "Foshan Nanhai Home",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 92499,
+"unit": "per piece",
+"variants": {
+"material": [
+"Melamine",
+"Mesh",
+"Walnut veneer"
+],
+"size": [
+"Standard",
+"Large"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0037",
+"name": "Conference Table",
+"category": "Office",
+"factory": "Shunde Longjiang Works",
+"moq": 2,
+"leadDays": 25,
+"priceINR": 172558,
+"unit": "per piece",
+"variants": {
+"material": [
+"Mesh",
+"Leather",
+"Melamine"
+],
+"size": [
+"Standard",
+"Large"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0038",
+"name": "Conference Table \u2014 Luxe",
+"category": "Office",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 45,
+"priceINR": 56592,
+"unit": "per piece",
+"variants": {
+"material": [
+"Mesh",
+"Melamine",
+"Walnut veneer"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0039",
+"name": "Filing Cabinet",
+"category": "Office",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 158578,
+"unit": "per piece",
+"variants": {
+"material": [
+"Leather",
+"Mesh",
+"Walnut veneer"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0040",
+"name": "Filing Cabinet \u2014 Luxe",
+"category": "Office",
+"factory": "Foshan Nanhai Home",
+"moq": 1,
+"leadDays": 30,
+"priceINR": 79496,
+"unit": "per piece",
+"variants": {
+"material": [
+"Melamine",
+"Mesh",
+"Leather"
+],
+"size": [
+"Standard",
+"Large"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0041",
+"name": "Reception Counter",
+"category": "Office",
+"factory": "Foshan Nanhai Home",
+"moq": 2,
+"leadDays": 25,
+"priceINR": 127954,
+"unit": "per piece",
+"variants": {
+"material": [
+"Melamine",
+"Walnut veneer",
+"Mesh"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.9
+},
+{
+"id": "FS-0042",
+"name": "Reception Counter \u2014 Kyoto",
+"category": "Office",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 77654,
+"unit": "per piece",
+"variants": {
+"material": [
+"Melamine",
+"Leather",
+"Mesh"
+],
+"size": [
+"Compact",
+"Large"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0043",
+"name": "Crystal Chandelier",
+"category": "Lighting",
+"factory": "Foshan Nanhai Home",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 52635,
+"unit": "per piece",
+"variants": {
+"material": [
+"Matte black",
+"Crystal",
+"Brass"
+],
+"size": [
+"Standard",
+"Compact"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0044",
+"name": "Crystal Chandelier \u2014 Milano",
+"category": "Lighting",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 55664,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Brass",
+"Crystal"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0045",
+"name": "Pendant Light",
+"category": "Lighting",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 62408,
+"unit": "per piece",
+"variants": {
+"material": [
+"Crystal",
+"Chrome",
+"Brass"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0046",
+"name": "Pendant Light \u2014 Aurora",
+"category": "Lighting",
+"factory": "Lecong Craft Furniture",
+"moq": 1,
+"leadDays": 25,
+"priceINR": 9736,
+"unit": "per piece",
+"variants": {
+"material": [
+"Brass",
+"Matte black",
+"Crystal"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0047",
+"name": "Floor Lamp",
+"category": "Lighting",
+"factory": "Shunde Longjiang Works",
+"moq": 10,
+"leadDays": 30,
+"priceINR": 79907,
+"unit": "per piece",
+"variants": {
+"material": [
+"Crystal",
+"Matte black",
+"Chrome"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0048",
+"name": "Floor Lamp \u2014 Oslo",
+"category": "Lighting",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 75007,
+"unit": "per piece",
+"variants": {
+"material": [
+"Matte black",
+"Crystal",
+"Chrome"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.1
+},
+{
+"id": "FS-0049",
+"name": "Wall Sconce",
+"category": "Lighting",
+"factory": "Foshan Ceramics Group",
+"moq": 2,
+"leadDays": 30,
+"priceINR": 106041,
+"unit": "per piece",
+"variants": {
+"material": [
+"Brass",
+"Crystal",
+"Matte black"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0050",
+"name": "Wall Sconce \u2014 Aurora",
+"category": "Lighting",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 35,
+"priceINR": 29528,
+"unit": "per piece",
+"variants": {
+"material": [
+"Crystal",
+"Chrome",
+"Brass"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0051",
+"name": "LED Track Light",
+"category": "Lighting",
+"factory": "Lecong Craft Furniture",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 46698,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Crystal",
+"Matte black"
+],
+"size": [
+"Standard",
+"Compact"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0052",
+"name": "LED Track Light \u2014 Luxe",
+"category": "Lighting",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 2,
+"leadDays": 25,
+"priceINR": 118523,
+"unit": "per piece",
+"variants": {
+"material": [
+"Crystal",
+"Matte black",
+"Brass"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.2
+},
+{
+"id": "FS-0053",
+"name": "Porcelain Floor Tile 600x1200",
+"category": "Tiles & Stone",
+"factory": "Foshan Ceramics Group",
+"moq": 50,
+"leadDays": 25,
+"priceINR": 454,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Glossy",
+"Matte",
+"Satin"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0054",
+"name": "Porcelain Floor Tile 600x1200 \u2014 Nordic",
+"category": "Tiles & Stone",
+"factory": "Foshan Ceramics Group",
+"moq": 50,
+"leadDays": 45,
+"priceINR": 552,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Glossy",
+"Satin",
+"Polished"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0055",
+"name": "Marble-Look Wall Tile",
+"category": "Tiles & Stone",
+"factory": "Chancheng Lighting Co.",
+"moq": 100,
+"leadDays": 25,
+"priceINR": 325,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Matte",
+"Glossy",
+"Polished"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0056",
+"name": "Marble-Look Wall Tile \u2014 Kyoto",
+"category": "Tiles & Stone",
+"factory": "Foshan Nanhai Home",
+"moq": 200,
+"leadDays": 35,
+"priceINR": 132,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Matte",
+"Glossy",
+"Satin"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0057",
+"name": "Wood-Look Plank Tile",
+"category": "Tiles & Stone",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 50,
+"leadDays": 45,
+"priceINR": 582,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Satin",
+"Polished",
+"Glossy"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0058",
+"name": "Wood-Look Plank Tile \u2014 Verona",
+"category": "Tiles & Stone",
+"factory": "Lecong Craft Furniture",
+"moq": 100,
+"leadDays": 25,
+"priceINR": 560,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Polished",
+"Matte",
+"Glossy"
+],
+"size": [
+"Custom",
+"Standard"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0059",
+"name": "Sintered Stone Slab",
+"category": "Tiles & Stone",
+"factory": "Lecong Craft Furniture",
+"moq": 50,
+"leadDays": 25,
+"priceINR": 163,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Polished",
+"Matte",
+"Satin"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0060",
+"name": "Sintered Stone Slab \u2014 Milano",
+"category": "Tiles & Stone",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 100,
+"leadDays": 30,
+"priceINR": 353,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Satin",
+"Glossy",
+"Matte"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0061",
+"name": "Terrazzo Tile",
+"category": "Tiles & Stone",
+"factory": "Chancheng Lighting Co.",
+"moq": 100,
+"leadDays": 30,
+"priceINR": 247,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Glossy",
+"Matte",
+"Satin"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0062",
+"name": "Terrazzo Tile \u2014 Luxe",
+"category": "Tiles & Stone",
+"factory": "Foshan Nanhai Home",
+"moq": 100,
+"leadDays": 25,
+"priceINR": 208,
+"unit": "per m\u00b2",
+"variants": {
+"material": [
+"Satin",
+"Glossy",
+"Matte"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.1
+},
+{
+"id": "FS-0063",
+"name": "Wall-Hung WC",
+"category": "Bath & Sanitary",
+"factory": "Chancheng Lighting Co.",
+"moq": 10,
+"leadDays": 25,
+"priceINR": 82977,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Matte black",
+"Ceramic"
+],
+"size": [
+"Compact",
+"Large"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0064",
+"name": "Wall-Hung WC \u2014 Luxe",
+"category": "Bath & Sanitary",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 19653,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Ceramic",
+"Brushed gold"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.4
+},
+{
+"id": "FS-0065",
+"name": "Vanity Unit",
+"category": "Bath & Sanitary",
+"factory": "Shunde Longjiang Works",
+"moq": 10,
+"leadDays": 30,
+"priceINR": 89733,
+"unit": "per piece",
+"variants": {
+"material": [
+"Matte black",
+"Brushed gold",
+"Chrome"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.8
+},
+{
+"id": "FS-0066",
+"name": "Vanity Unit \u2014 Nordic",
+"category": "Bath & Sanitary",
+"factory": "Foshan Nanhai Home",
+"moq": 10,
+"leadDays": 25,
+"priceINR": 114711,
+"unit": "per piece",
+"variants": {
+"material": [
+"Brushed gold",
+"Chrome",
+"Ceramic"
+],
+"size": [
+"Large",
+"Standard"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0067",
+"name": "Freestanding Bathtub",
+"category": "Bath & Sanitary",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 45,
+"priceINR": 97089,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Matte black",
+"Brushed gold"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0068",
+"name": "Freestanding Bathtub \u2014 Milano",
+"category": "Bath & Sanitary",
+"factory": "Lecong Craft Furniture",
+"moq": 10,
+"leadDays": 30,
+"priceINR": 110381,
+"unit": "per piece",
+"variants": {
+"material": [
+"Ceramic",
+"Brushed gold",
+"Chrome"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.9
+},
+{
+"id": "FS-0069",
+"name": "Rain Shower Set",
+"category": "Bath & Sanitary",
+"factory": "Lecong Craft Furniture",
+"moq": 1,
+"leadDays": 30,
+"priceINR": 124954,
+"unit": "per piece",
+"variants": {
+"material": [
+"Brushed gold",
+"Ceramic",
+"Chrome"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.2
+},
+{
+"id": "FS-0070",
+"name": "Rain Shower Set \u2014 Milano",
+"category": "Bath & Sanitary",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 69685,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Matte black",
+"Ceramic"
+],
+"size": [
+"Custom",
+"Compact"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0071",
+"name": "Basin Mixer",
+"category": "Bath & Sanitary",
+"factory": "Chancheng Lighting Co.",
+"moq": 5,
+"leadDays": 35,
+"priceINR": 105793,
+"unit": "per piece",
+"variants": {
+"material": [
+"Chrome",
+"Matte black",
+"Ceramic"
+],
+"size": [
+"Large",
+"Compact"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0072",
+"name": "Basin Mixer \u2014 Aurora",
+"category": "Bath & Sanitary",
+"factory": "Chancheng Lighting Co.",
+"moq": 10,
+"leadDays": 45,
+"priceINR": 63613,
+"unit": "per piece",
+"variants": {
+"material": [
+"Ceramic",
+"Matte black",
+"Brushed gold"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.2
+},
+{
+"id": "FS-0073",
+"name": "Rattan Sofa Set",
+"category": "Outdoor",
+"factory": "Shunde Longjiang Works",
+"moq": 1,
+"leadDays": 45,
+"priceINR": 126463,
+"unit": "per piece",
+"variants": {
+"material": [
+"Rope",
+"Aluminium",
+"Teak"
+],
+"size": [
+"Custom",
+"Large"
+]
+},
+"rating": 4.3
+},
+{
+"id": "FS-0074",
+"name": "Rattan Sofa Set \u2014 Verona",
+"category": "Outdoor",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 1,
+"leadDays": 45,
+"priceINR": 43585,
+"unit": "per piece",
+"variants": {
+"material": [
+"Teak",
+"PE rattan",
+"Aluminium"
+],
+"size": [
+"Standard",
+"Compact"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0075",
+"name": "Teak Sun Lounger",
+"category": "Outdoor",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 30,
+"priceINR": 15358,
+"unit": "per piece",
+"variants": {
+"material": [
+"Teak",
+"PE rattan",
+"Aluminium"
+],
+"size": [
+"Compact",
+"Custom"
+]
+},
+"rating": 4.6
+},
+{
+"id": "FS-0076",
+"name": "Teak Sun Lounger \u2014 Kyoto",
+"category": "Outdoor",
+"factory": "Foshan Ceramics Group",
+"moq": 2,
+"leadDays": 45,
+"priceINR": 198129,
+"unit": "per piece",
+"variants": {
+"material": [
+"PE rattan",
+"Rope",
+"Aluminium"
+],
+"size": [
+"Compact",
+"Standard"
+]
+},
+"rating": 4.7
+},
+{
+"id": "FS-0077",
+"name": "Outdoor Dining Set",
+"category": "Outdoor",
+"factory": "Chancheng Lighting Co.",
+"moq": 5,
+"leadDays": 35,
+"priceINR": 15301,
+"unit": "per piece",
+"variants": {
+"material": [
+"PE rattan",
+"Aluminium",
+"Teak"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0078",
+"name": "Outdoor Dining Set \u2014 Nordic",
+"category": "Outdoor",
+"factory": "Sanshui Sanitary Ltd",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 158393,
+"unit": "per piece",
+"variants": {
+"material": [
+"Teak",
+"PE rattan",
+"Rope"
+],
+"size": [
+"Standard",
+"Custom"
+]
+},
+"rating": 4.5
+},
+{
+"id": "FS-0079",
+"name": "Garden Umbrella",
+"category": "Outdoor",
+"factory": "Lecong Craft Furniture",
+"moq": 10,
+"leadDays": 35,
+"priceINR": 191806,
+"unit": "per piece",
+"variants": {
+"material": [
+"Rope",
+"PE rattan",
+"Teak"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.1
+},
+{
+"id": "FS-0080",
+"name": "Garden Umbrella \u2014 Oslo",
+"category": "Outdoor",
+"factory": "Shunde Longjiang Works",
+"moq": 5,
+"leadDays": 25,
+"priceINR": 103618,
+"unit": "per piece",
+"variants": {
+"material": [
+"Rope",
+"Teak",
+"Aluminium"
+],
+"size": [
+"Large",
+"Custom"
+]
+},
+"rating": 4.9
+}
+]

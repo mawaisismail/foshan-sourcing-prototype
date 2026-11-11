@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Foshan Direct: Sourcing Prototype</title>
+<meta name="description" content="Clickable prototype: Foshan factory furniture catalog with quote basket and manager admin for Indian buyers." />
+<style>
+:root{--bg:#faf8f5;--panel:#fff;--ink:#1f2328;--mute:#6b7280;--line:#e7e2da;--brand:#9a6b3f;--brand2:#f4ece3;--ok:#15803d;--warn:#b45309}
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+a{color:inherit}button{font:inherit;cursor:pointer}
+header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line)}
+.bar{max-width:1240px;margin:auto;display:flex;align-items:center;gap:16px;padding:12px 16px}
+.logo{font-weight:800;font-size:20px;letter-spacing:-.02em}.logo span{color:var(--brand)}
+nav{display:flex;gap:6px;margin-left:auto;flex-wrap:wrap}
+nav a{padding:8px 12px;border-radius:8px;text-decoration:none;color:var(--mute)}nav a.on{background:var(--brand2);color:var(--brand);font-weight:600}
+.basket-btn{background:var(--brand);color:#fff;border:0;border-radius:8px;padding:8px 14px}
+.wrap{max-width:1240px;margin:auto;padding:20px 16px 60px}
+.hero{background:linear-gradient(120deg,#2b2118,#6b4a2c);color:#fff;border-radius:16px;padding:32px;margin-bottom:20px}
+.hero h1{margin:0 0 6px;font-size:28px}.hero p{margin:0;opacity:.85;max-width:720px}
+.steps{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.steps span{background:rgba(255,255,255,.12);padding:4px 10px;border-radius:999px;font-size:12px}
+.layout{display:grid;grid-template-columns:240px 1fr;gap:20px}
+aside{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;height:fit-content;position:sticky;top:76px}
+aside h4{margin:14px 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute)}aside h4:first-child{margin-top:0}
+aside label{display:flex;gap:8px;align-items:center;padding:3px 0;font-size:14px}
+input[type=search],select,input[type=number],input[type=text],input[type=tel],textarea{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;font:inherit}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.thumb{height:150px;display:grid;place-items:center;font-size:44px}
+.card .b{padding:12px;display:flex;flex-direction:column;gap:6px;flex:1}
+.meta{font-size:12px;color:var(--mute)}.price{font-weight:700}
+.chip{display:inline-block;font-size:11px;background:var(--brand2);color:var(--brand);border-radius:999px;padding:2px 8px}
+.row{display:flex;gap:8px;align-items:center}
+.btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px}.btn.p{background:var(--brand);border-color:var(--brand);color:#fff}
+.drawer{position:fixed;inset:0 0 0 auto;width:min(440px,100%);background:#fff;border-left:1px solid var(--line);transform:translateX(100%);transition:.25s;z-index:10;display:flex;flex-direction:column}
+.drawer.open{transform:none}.drawer header{position:static;padding:14px 16px;display:flex;justify-content:space-between;align-items:center}
+.drawer .body{padding:16px;overflow:auto;flex:1}.li{display:flex;justify-content:space-between;gap:8px;padding:10px 0;border-bottom:1px solid var(--line)}
+.tot{display:flex;justify-content:space-between;padding:6px 0}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{padding:10px;border-bottom:1px solid var(--line);text-align:left;font-size:14px}th{background:#f6f2ec;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--mute)}
+.kanban{display:grid;grid-template-columns:repeat(8,minmax(170px,1fr));gap:10px;overflow-x:auto;padding-bottom:6px}
+.col{background:#f3eee7;border-radius:10px;padding:8px;min-height:160px}.col h5{margin:4px 4px 8px;font-size:12px;color:var(--mute);text-transform:uppercase}
+.q{background:#fff;border:1px solid var(--line);border-radius:8px;padding:8px;margin-bottom:8px;font-size:13px}
+.tabs{display:flex;gap:6px;margin:0 0 16px}.tabs button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 12px}.tabs button.on{background:var(--ink);color:#fff}
+.note{background:#fff8e6;border:1px solid #f3d38a;border-radius:10px;padding:10px 12px;font-size:13px;margin-bottom:16px}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:10px 16px;border-radius:8px;opacity:0;transition:.2s;z-index:20}.toast.show{opacity:1}
+@media(max-width:860px){.layout{grid-template-columns:1fr}aside{position:static}}
+</style>
+</head>
+<body>
+<header><div class="bar">
+  <div class="logo">Foshan<span>Direct</span></div>
+  <nav><a href="#/" id="nav-shop">Catalog</a><a href="#/admin" id="nav-admin">Manager admin</a></nav>
+  <button class="basket-btn" onclick="openBasket()">Quote basket (<span id="bc">0</span>)</button>
+</div></header>
+<main class="wrap" id="app"></main>
+<div class="drawer" id="drawer"><header><b>Quote basket</b><button class="btn" onclick="closeBasket()">Close</button></header><div class="body" id="basket"></div></div>
+<div class="toast" id="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>
